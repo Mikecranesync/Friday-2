@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Friday - Voice Assistant",
+  "description": "A voice-first AI assistant powered by Gemini 2.5 Live API. Features real-time conversation, vision capabilities, and simulated tool integrations like Email and Search.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
