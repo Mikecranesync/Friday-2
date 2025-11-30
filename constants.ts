@@ -2,7 +2,7 @@
 import { FunctionDeclaration, Type } from "@google/genai";
 
 // TODO: Replace with your actual Google Client ID from Google Cloud Console
-export const GOOGLE_CLIENT_ID = ''; 
+export const GOOGLE_CLIENT_ID = '629976964482-1d117sk11mc6i6fmbel61faujsbrs40b.apps.googleusercontent.com'; 
 
 export const SYSTEM_INSTRUCTION = `You are "Friday", a highly intelligent, witty, and efficient AI assistant designed for an in-car experience. 
 Your voice should be calm, professional, yet warm. 
